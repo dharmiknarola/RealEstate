@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Marry Jonathan",
+        "price": "3,46,190",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakatra Timur, DKI Jakarta",
+        "image": "images/r1.png"
+    },
+    {
+        "name" : "Kena Tomsmith",
+        "price": "2,94,980",
+        "detail": "301 Renwick Avenue, Cambridge, ON",
+        "image": "images/r2.png"
+    },
+    {
+        "name" : "Jeny Kellsam",
+        "price": "4,04,360",
+        "detail": "61 Alderson Drive, Cambridge, ON",
+        "image": "images/r3.png"
+    },
+    {
+        "name" : "Torry MacLlum",
+        "price": "3,41,600",
+        "detail": "439 Hamilton Street, Cambridge, ON",
+        "image": "images/r4.png"
+    },
+    {
+        "name" : "Reny Fransisco",
+        "price": "12,14,200",
+        "detail": "5 Woodcraft Place, Cambridge, ON",
+        "image": "images/r5.png"
+    },
+    {
+        "name" : "Tara Anderson",
+        "price": "4,04,100",
+        "detail": "1049 Pinetree Crescent, Cambridge, ON",
+        "image": "images/r6.png"
+    }
+]
