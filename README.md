@@ -16,5 +16,3 @@
 ### Screenshot 4
 ![Alt Our Contacts](https://github.com/dharmiknarola/projects-react/blob/main/Project%20Screenshots/SS4.png)
 
-### Screenshot 5
-![Alt Our Contacts](https://github.com/dharmiknarola/projects-react/blob/main/Project%20Screenshots/SS4.png)
