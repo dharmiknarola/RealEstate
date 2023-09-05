@@ -5,7 +5,7 @@
 ## Project Screenshots
 
 ### Screenshot 1
-<img width="1465" alt="image1" src="https://github.com/dharmiknarola/projects-react/assets/47632623/dcedae04-e222-4ce6-8d53-798d7386add7">
+![Alt HomeScreen](https://github.com/dharmiknarola/projects-react/blob/main/Project%20Screenshots/HomeScreen.png)
 
 ### Screenshot 2
 <img width="1470" alt="image2" src="https://github.com/dharmiknarola/projects-react/assets/47632623/efa68c42-1847-466c-9bf9-fb7863030252">
